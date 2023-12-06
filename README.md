@@ -1,0 +1,5 @@
+--->Hi i am SHIVA PRASANNA a first year student.
+---->I am interested towards,software development side.
+----->Recently i have completed C programming.
+------>I have hands on experience on c like i had made one project using c.
+----->I am keenly interested in learning new things and improving my coding skills.
